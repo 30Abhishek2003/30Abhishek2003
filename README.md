@@ -1,16 +1,18 @@
-## Hi there 👋
+Welcome to the Grind Dungeon! 🎮
+I’m a curious builder who enjoys turning ideas into useful projects. Along the way, I’ve learned, grown, and discovered what makes my work unique. I’m excited to keep building, learning, and taking on new challenges.
 
-<!--
-**30Abhishek2003/30Abhishek2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 What I’m up to
+Currently working on: Analytics project
+Ask me about: Data analytics, Python, SQL, Power BI, or MERN development
 
-Here are some ideas to get you started:
+📜 Certification
+Google Data Analytics Professional Certificate — Coursera & Google
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack & Tools
+Data Analytics: Python · SQL · Excel · Power BI
+Full-Stack Development: MongoDB · Express.js · React.js · Node.js (MERN)
+Programming Languages: Java
+
+📫 Connect with me
+Email: abhishekunakal2@gmail.com
+LinkedIn: in/abhishek-unakal-9b8a47325
